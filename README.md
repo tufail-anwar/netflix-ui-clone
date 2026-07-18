@@ -1,4 +1,4 @@
-# Netflix UI Clone 🎬
+# MOVIE-Streaming-UI 🎬
 
 So this is a small frontend project I made where I tried to copy the look and feel of Netflix using **HTML, CSS, and JavaScript**. I mainly built this to practice designing layouts, making things responsive, and adding a bit of interactivity.
 
